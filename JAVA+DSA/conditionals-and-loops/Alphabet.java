@@ -27,9 +27,9 @@ import java.util.Scanner;
     {
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Input floating-point number: ");
+        System.out.print("Input floating-point num: ");
         double x = in.nextDouble();
-        System.out.print("Input floating-point another number: ");
+        System.out.print("Input floating-point another num: ");
         double y = in.nextDouble();
 
         x = Math.round(x * 1000);

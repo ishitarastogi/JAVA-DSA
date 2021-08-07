@@ -20,7 +20,7 @@ else if(boolean express T or F){
 }
 else
 {
-    //BODY
+    //BOD
 }
 
 # for and while loop

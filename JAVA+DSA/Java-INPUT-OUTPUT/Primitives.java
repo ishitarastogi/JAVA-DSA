@@ -5,7 +5,7 @@ public class Primitives {
         float marks = 98.67f;
         double largeDecimalNumbers = 4567654.4567;
         long largeInteger = 34567834567876543L;
-        boolean check = false;
+        boolean check = true;
 
         float c = 30.6f;
         c++;
